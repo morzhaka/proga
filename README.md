@@ -1,4 +1,4 @@
-# proga
+<img width="1278" height="912" alt="Снимок экрана 2026-04-15 131247" src="https://github.com/user-attachments/assets/05c0dd12-05fb-4ec1-8c91-cadb5e0e10a2" /># proga
 # Отчёт по лабораторной работе №1
 
 ## Задание 1 
@@ -55,13 +55,16 @@ git pull	Скачать изменения с GitHub
 
 Скриншот
 
-![alt text](image.png)
+<img width="1278" height="912" alt="Снимок экрана 2026-04-15 131247" src="https://github.com/user-attachments/assets/807b99c3-99ed-45d0-b003-f40347a2950f" />
+
 
 ## Ссылки на используемые материалы
+
 
 - [Документация Python](https://docs.python.org/3/)
 - [Формула расстояния между точками](https://ru.wikipedia.org/wiki/Расстояние_между_двумя_точками)
 - [Шпаргалка по Git](https://git-scm.com/doc)
+<<<<<<< HEAD
 
 
 
@@ -494,3 +497,5 @@ git pull	Скачать изменения с GitHub
 
 - [Документация Python: словари](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 - [Список словарей в Python](https://pythonru.com/osnovy/spisok-slovarej-python)
+=======
+>>>>>>> bc69d024f689d7d98ba3d7292e7d478804987ee8
