@@ -1,4 +1,4 @@
-<img width="1278" height="912" alt="Снимок экрана 2026-04-15 131247" src="https://github.com/user-attachments/assets/05c0dd12-05fb-4ec1-8c91-cadb5e0e10a2" /># proga
+
 # Отчёт по лабораторной работе №1
 
 ## Задание 1 
